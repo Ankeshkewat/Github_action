@@ -1,4 +1,5 @@
 console.log('hello from index.js file')
 
-var rn=require('random-number');
+const rn = require('random-number')
+
 console.log(rn())
